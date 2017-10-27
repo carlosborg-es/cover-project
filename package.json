@@ -1,0 +1,16 @@
+{
+  "name": "cover-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coveralls": "^3.0.0",
+    "jest": "^21.2.1"
+  }
+}
